@@ -47,7 +47,7 @@
     "react-multi-email": "^0.5.3",
     "react-phone-number-input": "^3.1.21",
     "react-select": "^4.3.0",
-    "react-timezone-select": "^1.0.2",
+    "react-timezone-select": "^1.5.4",
     "short-uuid": "^4.2.0",
     "tsdav": "^1.0.2",
     "tslog": "^3.2.0",
